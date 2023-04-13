@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221.44 104.14">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 69.58px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: Horizon, Horizon;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        font-size: 39.21px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(0 33.01) scale(1.15 1)"><tspan class="cls-4" x="0" y="0">a</tspan><tspan class="cls-3" x="24.79" y="0">l</tspan><tspan class="cls-8" x="44.05" y="0">ien</tspan></text>
+      <text class="cls-1" transform="translate(.04 87.15) scale(1.12 1)"><tspan x="0" y="0">re</tspan><tspan class="cls-7" x="74.75" y="0">p</tspan><tspan class="cls-5" x="101.69" y="0">a</tspan><tspan class="cls-6" x="145.69" y="0">i</tspan><tspan x="160.53" y="0">r</tspan></text>
+    </g>
+  </g>
+</svg>

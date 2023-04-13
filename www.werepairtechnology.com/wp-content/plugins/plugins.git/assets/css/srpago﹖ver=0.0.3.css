@@ -1,0 +1,7 @@
+.srpago-errors ul {
+    margin: 0 0 1rem 0;
+}
+.srpago-errors ul > li {
+    color: #e2401c;
+    font-weight: bold;
+}

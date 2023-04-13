@@ -1,0 +1,26 @@
+/*
+Theme Name: Decorist Child
+Theme URI: Themeforest URL
+Description: An E-Commerce theme for WordPress
+Author: CSSIgniter
+Author URI: https://www.cssigniter.com/
+Template: decorist
+Version: 1.0
+License: GNU General Public License v2 or later
+Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags:
+Text Domain: decorist-child
+*/
+/* Inicio de la personalización del tema
+-----------------------------------------------*/
+
+.elementor-text-editor p{
+	margin: 0 0 0 0;
+}
+
+.woocommerce-checkout-payment::before {
+  content: "Formas de Pago";
+  color:#4A4A4A;
+  font-size:24px;
+  font-weight:900;
+}
